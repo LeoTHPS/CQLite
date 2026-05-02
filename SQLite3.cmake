@@ -1,3 +1,5 @@
+project(sqlite3)
+
 include(FetchContent)
 
 set(SQLITE3_URL      "https://sqlite.org/2026/sqlite-amalgamation-3530000.zip")
